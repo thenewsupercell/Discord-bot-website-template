@@ -22,10 +22,10 @@ line-height: 1.2;
     font-weight: 700;
     padding-top: 30px;
 }
-.Hbot {
+.MegaSpark {
     color: #AD91FF !important;
 }
-.Hbot:hover {
+.MegaSpark:hover {
     font-size: 30px;
     text-shadow: #ffffff;
 }
@@ -136,10 +136,10 @@ ul.social-icons {
     text-decoration: none;
   }
   
-.commandstitle {
+.contacttitle {
     color: #ffffff;
 }
-.commandssub {
+.contactsub {
     color: gray;
 }
 .searchbox {

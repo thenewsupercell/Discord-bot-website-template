@@ -13,7 +13,7 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-// commands search script
+// contact search script
 $(document).ready(function(){
     $("#myInput").on("keyup", function() {
       var value = $(this).val().toLowerCase();
